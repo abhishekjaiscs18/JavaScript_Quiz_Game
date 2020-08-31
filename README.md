@@ -8,7 +8,7 @@ This is a simple one page web app built to run a quiz, including a timer and sco
 It has been built to be fully responsive, with clean HTML and multiple JS Functions to handle logic.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
