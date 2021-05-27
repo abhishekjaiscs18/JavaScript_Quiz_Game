@@ -5,6 +5,7 @@ Javascript Quiz Game with Local Storage of Scores
 ## Description 
 
 ![HTMLCSSJS](https://user-images.githubusercontent.com/53760244/119849389-3560cc80-bf2a-11eb-87e6-6756cca1b098.JPG)
+
 This is a simple one page web app built to run a quiz, including a timer and score tracking and storage in Local memory.
 It has been built to be fully responsive, with clean HTML and multiple JS Functions to handle logic.
 
